@@ -1,0 +1,108 @@
+{
+  "common": {
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "dashboard": "डैशबोर्ड",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "view": "देखें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "apply": "लागू करें",
+    "back": "वापस",
+    "next": "अगला"
+  },
+  "navigation": {
+    "home": "होम",
+    "dashboard": "डैशबोर्ड",
+    "marketAnalysis": "बाज़ार विश्लेषण",
+    "microloans": "माइक्रोलोन",
+    "cropHealth": "फसल स्वास्थ्य",
+    "assistant": "सहायक",
+    "salesPlatform": "बिक्री प्लेटफॉर्म"
+  },
+  "auth": {
+    "welcome": "AgriLink360 में आपका स्वागत है",
+    "loginTitle": "अपने खाते में साइन इन करें",
+    "username": "उपयोगकर्ता नाम",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "invalidCredentials": "गलत उपयोगकर्ता नाम या पासवर्ड",
+    "loginSuccess": "लॉगिन सफल"
+  },
+  "dashboard": {
+    "title": "डैशबोर्ड",
+    "welcome": "वापस आने पर स्वागत है",
+    "farmStats": "फार्म आँकड़े",
+    "totalFarms": "कुल फार्म",
+    "activeLoans": "सक्रिय लोन",
+    "marketAlerts": "बाज़ार अलर्ट",
+    "cropReports": "फसल स्वास्थ्य रिपोर्ट",
+    "quickActions": "त्वरित कार्य"
+  },
+  "market": {
+    "title": "बाज़ार विश्लेषण",
+    "cropPrices": "फसल की कीमतें",
+    "trends": "रुझान",
+    "demandLevel": "मांग स्तर",
+    "priceHistory": "मूल्य इतिहास",
+    "marketInsights": "बाज़ार अंतर्दृष्टि",
+    "high": "उच्च",
+    "medium": "मध्यम",
+    "low": "कम",
+    "up": "बढ़ रहा",
+    "down": "गिर रहा",
+    "stable": "स्थिर"
+  },
+  "loans": {
+    "title": "माइक्रोलोन",
+    "applyForLoan": "लोन के लिए आवेदन करें",
+    "loanStatus": "लोन स्थिति",
+    "amount": "राशि",
+    "purpose": "उद्देश्य",
+    "duration": "अवधि (महीने)",
+    "eligibility": "पात्रता जांचें",
+    "approved": "अनुमोदित",
+    "pending": "लंबित",
+    "rejected": "अस्वीकृत",
+    "disbursed": "वितरित",
+    "applicationSubmitted": "आवेदन सफलतापूर्वक जमा किया गया"
+  },
+  "cropHealth": {
+    "title": "फसल स्वास्थ्य भविष्यवाणी",
+    "uploadData": "फार्म/फसल डेटा अपलोड करें",
+    "healthScore": "स्वास्थ्य स्कोर",
+    "status": "स्थिति",
+    "recommendations": "सिफारिशें",
+    "riskFactors": "जोखिम कारक",
+    "healthy": "स्वस्थ",
+    "warning": "चेतावनी",
+    "critical": "गंभीर",
+    "analyzeHealth": "स्वास्थ्य का विश्लेषण करें"
+  },
+  "assistant": {
+    "title": "भविष्यवाणी सहायक",
+    "personalizedRecommendations": "व्यक्तिगत सिफारिशें",
+    "nextBestActions": "अगली सबसे अच्छी कार्रवाई",
+    "insights": "अंतर्दृष्टि",
+    "suggestions": "सुझाव"
+  },
+  "sales": {
+    "title": "बिक्री प्लेटफॉर्म",
+    "addProduct": "उत्पाद जोड़ें",
+    "productName": "उत्पाद का नाम",
+    "price": "कीमत",
+    "seller": "विक्रेता",
+    "stock": "स्टॉक",
+    "category": "श्रेणी",
+    "description": "विवरण",
+    "uploadImage": "छवि अपलोड करें",
+    "productAdded": "उत्पाद सफलतापूर्वक जोड़ा गया"
+  }
+}

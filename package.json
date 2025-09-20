@@ -1,0 +1,31 @@
+{
+  "name": "agrilink360-internal-ui",
+  "version": "1.0.0",
+  "description": "AgriLink360 Internal UI - React + Python web application",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "frontend": "cd frontend && npm start",
+    "backend": "cd backend && python main.py",
+    "build": "cd frontend && npm run build",
+    "test": "cd frontend && npm test",
+    "backend-install": "cd backend && pip install -r requirements.txt",
+    "frontend-install": "cd frontend && npm install --legacy-peer-deps",
+    "install-all": "npm run backend-install && npm run frontend-install",
+    "setup": "npm run install-all && echo 'Setup complete! Run npm run dev to start development servers'",
+    "lint": "cd frontend && npm run lint",
+    "clean": "rm -rf frontend/node_modules frontend/build backend/__pycache__ backend/.env"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "keywords": [
+    "agriculture",
+    "react",
+    "python",
+    "fastapi",
+    "multi-language",
+    "internal-ui"
+  ],
+  "author": "AgriLink360 Team",
+  "license": "MIT"
+}

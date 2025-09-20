@@ -1,0 +1,108 @@
+{
+  "common": {
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "dashboard": "डॅशबोर्ड",
+    "loading": "लोड होत आहे...",
+    "error": "त्रुटी",
+    "success": "यशस्वी",
+    "submit": "सबमिट करा",
+    "cancel": "रद्द करा",
+    "save": "जतन करा",
+    "edit": "संपादित करा",
+    "delete": "हटवा",
+    "view": "पहा",
+    "search": "शोधा",
+    "filter": "फिल्टर",
+    "apply": "लागू करा",
+    "back": "परत",
+    "next": "पुढे"
+  },
+  "navigation": {
+    "home": "होम",
+    "dashboard": "डॅशबोर्ड",
+    "marketAnalysis": "बाजार विश्लेषण",
+    "microloans": "मायक्रोलोन",
+    "cropHealth": "पीक आरोग्य",
+    "assistant": "सहाय्यक",
+    "salesPlatform": "विक्री प्लॅटफॉर्म"
+  },
+  "auth": {
+    "welcome": "AgriLink360 मध्ये आपले स्वागत आहे",
+    "loginTitle": "आपल्या खात्यात साइन इन करा",
+    "username": "वापरकर्ता नाव",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड विसरलात?",
+    "invalidCredentials": "चुकीचे वापरकर्ता नाव किंवा पासवर्ड",
+    "loginSuccess": "लॉगिन यशस्वी"
+  },
+  "dashboard": {
+    "title": "डॅशबोर्ड",
+    "welcome": "परत आल्याबद्दल स्वागत आहे",
+    "farmStats": "शेत आकडेवारी",
+    "totalFarms": "एकूण शेते",
+    "activeLoans": "सक्रिय कर्ज",
+    "marketAlerts": "बाजार अलर्ट",
+    "cropReports": "पीक आरोग्य अहवाल",
+    "quickActions": "जलद क्रिया"
+  },
+  "market": {
+    "title": "बाजार विश्लेषण",
+    "cropPrices": "पीक दर",
+    "trends": "ट्रेंड",
+    "demandLevel": "मागणी पातळी",
+    "priceHistory": "किंमत इतिहास",
+    "marketInsights": "बाजार अंतर्दृष्टी",
+    "high": "उच्च",
+    "medium": "मध्यम",
+    "low": "कमी",
+    "up": "वाढत आहे",
+    "down": "कमी होत आहे",
+    "stable": "स्थिर"
+  },
+  "loans": {
+    "title": "मायक्रोलोन",
+    "applyForLoan": "कर्जासाठी अर्ज करा",
+    "loanStatus": "कर्जाची स्थिती",
+    "amount": "रक्कम",
+    "purpose": "उद्देश",
+    "duration": "कालावधी (महिने)",
+    "eligibility": "पात्रता तपासा",
+    "approved": "मंजूर",
+    "pending": "प्रलंबित",
+    "rejected": "नाकारले",
+    "disbursed": "वितरित",
+    "applicationSubmitted": "अर्ज यशस्वीरीत्या सबमिट केला"
+  },
+  "cropHealth": {
+    "title": "पीक आरोग्य भविष्यवाणी",
+    "uploadData": "शेत/पीक डेटा अपलोड करा",
+    "healthScore": "आरोग्य स्कोअर",
+    "status": "स्थिती",
+    "recommendations": "शिफारसी",
+    "riskFactors": "जोखीम घटक",
+    "healthy": "निरोगी",
+    "warning": "इशारा",
+    "critical": "गंभीर",
+    "analyzeHealth": "आरोग्य विश्लेषण करा"
+  },
+  "assistant": {
+    "title": "भविष्यवाणी सहाय्यक",
+    "personalizedRecommendations": "वैयक्तिक शिफारसी",
+    "nextBestActions": "पुढील सर्वोत्तम क्रिया",
+    "insights": "अंतर्दृष्टी",
+    "suggestions": "सूचना"
+  },
+  "sales": {
+    "title": "विक्री प्लॅटफॉर्म",
+    "addProduct": "उत्पादन जोडा",
+    "productName": "उत्पादनाचे नाव",
+    "price": "किंमत",
+    "seller": "विक्रेता",
+    "stock": "स्टॉक",
+    "category": "श्रेणी",
+    "description": "वर्णन",
+    "uploadImage": "प्रतिमा अपलोड करा",
+    "productAdded": "उत्पादन यशस्वीरीत्या जोडले"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "search": "Search",
+    "filter": "Filter",
+    "apply": "Apply",
+    "back": "Back",
+    "next": "Next"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "marketAnalysis": "Market Analysis",
+    "microloans": "Microloans",
+    "cropHealth": "Crop Health",
+    "assistant": "Assistant",
+    "salesPlatform": "Sales Platform"
+  },
+  "auth": {
+    "welcome": "Welcome to AgriLink360",
+    "loginTitle": "Sign in to your account",
+    "username": "Username",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "invalidCredentials": "Invalid username or password",
+    "loginSuccess": "Login successful"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back",
+    "farmStats": "Farm Statistics",
+    "totalFarms": "Total Farms",
+    "activeLoans": "Active Loans",
+    "marketAlerts": "Market Alerts",
+    "cropReports": "Crop Health Reports",
+    "quickActions": "Quick Actions"
+  },
+  "market": {
+    "title": "Market Analysis",
+    "cropPrices": "Crop Prices",
+    "trends": "Trends",
+    "demandLevel": "Demand Level",
+    "priceHistory": "Price History",
+    "marketInsights": "Market Insights",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "up": "Rising",
+    "down": "Falling",
+    "stable": "Stable"
+  },
+  "loans": {
+    "title": "Microloans",
+    "applyForLoan": "Apply for Loan",
+    "loanStatus": "Loan Status",
+    "amount": "Amount",
+    "purpose": "Purpose",
+    "duration": "Duration (months)",
+    "eligibility": "Check Eligibility",
+    "approved": "Approved",
+    "pending": "Pending",
+    "rejected": "Rejected",
+    "disbursed": "Disbursed",
+    "applicationSubmitted": "Application submitted successfully"
+  },
+  "cropHealth": {
+    "title": "Crop Health Prediction",
+    "uploadData": "Upload Farm/Crop Data",
+    "healthScore": "Health Score",
+    "status": "Status",
+    "recommendations": "Recommendations",
+    "riskFactors": "Risk Factors",
+    "healthy": "Healthy",
+    "warning": "Warning",
+    "critical": "Critical",
+    "analyzeHealth": "Analyze Health"
+  },
+  "assistant": {
+    "title": "Predictor Assistant",
+    "personalizedRecommendations": "Personalized Recommendations",
+    "nextBestActions": "Next Best Actions",
+    "insights": "Insights",
+    "suggestions": "Suggestions"
+  },
+  "sales": {
+    "title": "Sales Platform",
+    "addProduct": "Add Product",
+    "productName": "Product Name",
+    "price": "Price",
+    "seller": "Seller",
+    "stock": "Stock",
+    "category": "Category",
+    "description": "Description",
+    "uploadImage": "Upload Image",
+    "productAdded": "Product added successfully"
+  }
+}
